@@ -1,6 +1,7 @@
 This is a simple To-Do List application built using Python's Tkinter library. It allows users to add, delete, save, and load tasks.
 
 Usage
+
 Adding a Task:
  1.Type your task in the entry field provided.
  2.Click on the "ADD TASK" button to add the task to the list.
